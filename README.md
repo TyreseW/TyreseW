@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Tyrese White.
 - 👀 I’m interested in gaming, sports, and technology
-- 🌱 I’m looking to become a Data Analyst and i'm working on improving my skillset.
+- 🌱 I’m looking to become a Data Analyst and i'm working on improving my skillset. I'll be uploading my finished projects here.
 - 💞️ I’m looking to collaborate with anyone who has more experience that I can learn from.
 - 📫 How to reach me:
   whitetyy02@gmail.com
